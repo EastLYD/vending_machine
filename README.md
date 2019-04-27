@@ -1,9 +1,8 @@
 # vending_machine
 
-时间：2017年9月大二上学期第一二周
 
-地点:ZZU
 
-科目：高级语言课程设计
+Vending machine model based on merchandise management system for C programming language project
 
-内容：基于商品管理系统的全自动售货机模型
+2018.09
+
